@@ -1,0 +1,15 @@
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\bin\Debug\net7.0\TP3Q4.exe
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\bin\Debug\net7.0\TP3Q4.deps.json
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\bin\Debug\net7.0\TP3Q4.runtimeconfig.json
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\bin\Debug\net7.0\TP3Q4.dll
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\bin\Debug\net7.0\TP3Q4.pdb
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\TP3Q4.csproj.AssemblyReference.cache
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\TP3Q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\TP3Q4.AssemblyInfoInputs.cache
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\TP3Q4.AssemblyInfo.cs
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\TP3Q4.csproj.CoreCompileInputs.cache
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\TP3Q4.dll
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\refint\TP3Q4.dll
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\TP3Q4.pdb
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\TP3Q4.genruntimeconfig.cache
+C:\Users\gle11\Desktop\TP3- Aluno\TP3Q4\obj\Debug\net7.0\ref\TP3Q4.dll

@@ -1,0 +1,5 @@
+C:\Users\gle11\Desktop\TP3- Aluno\obj\Debug\net7.0\TP3- Aluno.csproj.AssemblyReference.cache
+C:\Users\gle11\Desktop\TP3- Aluno\obj\Debug\net7.0\TP3- Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gle11\Desktop\TP3- Aluno\obj\Debug\net7.0\TP3- Aluno.AssemblyInfoInputs.cache
+C:\Users\gle11\Desktop\TP3- Aluno\obj\Debug\net7.0\TP3- Aluno.AssemblyInfo.cs
+C:\Users\gle11\Desktop\TP3- Aluno\obj\Debug\net7.0\TP3- Aluno.csproj.CoreCompileInputs.cache
